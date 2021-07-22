@@ -16,7 +16,7 @@ appVersion: 0.3.5
 dependencies:
   - name: mysql
     repository: https://charts.bitnami.com/bitnami
-    version: 8.5.9
+    version: 8.7.3
     condition: mysql.enabled
   - name: postgresql
     repository: https://charts.bitnami.com/bitnami
